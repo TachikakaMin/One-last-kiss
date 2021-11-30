@@ -2,6 +2,9 @@
 Transfer image to One-last-kiss cover style
 
 
+You need python or you can run it in google colab. 
+
+
 ![eva](https://user-images.githubusercontent.com/22492543/144098943-8d511460-2e0c-45a2-a6b4-8c2f699ba90c.jpeg)
 
 
